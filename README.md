@@ -1,6 +1,6 @@
 ### Bem vindo, eu sou Leonardo Mantovani!!
 
-<div align="center">
+<div align="center" style="padding-bottom: 20px;">
   <a href="https://github.com/LeonardoHMS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoHMS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoHMS&layout=compact&langs_count=7&theme=tokyonight"/>
